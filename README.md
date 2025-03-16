@@ -6,5 +6,5 @@
 Sanskrit (Devanagari) - PDF  
 [Sanskrit (IAST) - Plain Text at dsbcproject.org](https://www.dsbcproject.org/canon-text/content/76/633)  
 Sanskrit (IAST) - PDF  
-English - Plain Text  
+[English - Plain Text at Lapis Lazuli Texts](https://lapislazulitexts.com/tripitaka/T0235-LL-vajracchedika/)  
 English - PDF  
