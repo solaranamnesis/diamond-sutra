@@ -8,5 +8,5 @@ Sanskrit (Devanagari) - PDF
 Sanskrit (IAST) - PDF  
 [Chinese - Plain Text at vincentpoon.com](https://www.vincentpoon.com/diamond-sutra.html#imTextObject_228_762_tab0)  
 Chinese - PDF  
-[English - Plain Text at Lapis Lazuli Texts](https://lapislazulitexts.com/tripitaka/T0235-LL-vajracchedika/) | [English - Plain Text at vincentpoon.com](https://www.vincentpoon.com/diamond-sutra.html#imTextObject_228_762_tab0)  
+[English - Plain Text at Lapis Lazuli Texts](https://lapislazulitexts.com/tripitaka/T0235-LL-vajracchedika/) | [English - Plain Text at vincentpoon.com](https://www.vincentpoon.com/diamond-sutra.html#imTextObject_228_762_tab0) | [English - Plain Text at Project Gutenberg](https://www.gutenberg.org/ebooks/64623)  
 English - PDF  
